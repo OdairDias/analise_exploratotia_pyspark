@@ -21,16 +21,19 @@ E por último, em 98% dos roubos foram levados apenas um aparelho sedo dois apar
 Abaixo seguem os dados utilizados para análise:
 
 Primeiro passo importamos os dados e já solicitamos uma visualização dos dados importados:
+
 ![image](https://user-images.githubusercontent.com/117185803/231448267-d45dc34e-fd4b-4cb2-b61a-17d4ace17918.png)
 
 
 Em seguida iremos observar quais colunas temos e o tipo de dado em cada coluna:
+
 ![image](https://user-images.githubusercontent.com/117185803/231448796-c2ba4b4f-74b3-4ebc-9f88-f3bb8928c759.png)
 
 Agora iremos montar um novo df com alguns dados considerados relevantes para esta análise:
 ![image](https://user-images.githubusercontent.com/117185803/231449225-45aa529b-938b-4e53-8a4d-63f35a736cb5.png)
 
 Também devemos olhar a integridade dos nossos dados, descobrir quantas celular vazias ou nulas nós temos:
+
 ![image](https://user-images.githubusercontent.com/117185803/231451687-701929cc-326f-4611-91f3-40500ce2174a.png)
 
 
